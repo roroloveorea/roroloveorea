@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/roroloveorea/About-Me/blob/4412f85fe25c951759c0eea85d175246596f051c/images/dora.gif" alt="header"/>
+  <img src="https://github.com/roroloveorea/roroloveorea/blob/14a1dad2f0adb6dba960ce75816467260cb32176/images/dora.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
