@@ -6,9 +6,7 @@
 
 <h2 align="center"👧 WhoAmI</h2>
 <p align="center">
- <h2> <samp> I am a Computer Science undergraduate passionate about software and data engineering. Intending to pursue
-the path of Artificial Intelligence and Data Science. I believe that technology shapes the future and aspires to be
-part of it. I am proficient in a range of modern technologies including Python, Java, SQL and C programming
+ <h2> <samp> I am Rongxi, a computer science undergraduate from NTU.  I am passionate about software development and data engineering. I am a creative thinker, adept in software development, and working with various data structures. I intend to pursue the path of Artificial Intelligence and Data Science. I believe that technology shapes the future and aspires to be part of it. I am proficient in a range of modern technologies including Python, Java, SQL, and C programming.
   </samp> </h2>
   <br> <br>
 
