@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Java%20-yellowgreen" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Flutter%20-blue" />&nbsp;&nbsp;
 </p>
-<p align="center">Python, Flutter, C, Java, HTML, SQL</p>
+<p align="center">C, Flutter, Java, HTML, Python, SQL</p>
 
 
 
