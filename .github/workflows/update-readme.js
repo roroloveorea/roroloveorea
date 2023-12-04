@@ -1,7 +1,22 @@
+// update-readme.js
 const fs = require('fs');
-const stats = require('github-readme-stats');
+const axios = require('axios');
 
-(async () => {
-  const markdown = await stats({ username: 'roroloveorea' });
-  fs.writeFileSync('README.md', `<!--START_SECTION:repos-->\n${markdown}\n<!--END_SECTION:repos-->`);
-})();
+async function updateReadme() {
+  // Fetch repositories data
+  const repos = await axios.get('https://api.github.com/user/repos', {
+    headers: { Authorization: `Bearer ${process.env.GH_TOKEN}` },
+  });
+
+  // Fetch GitHub stats
+  const stats = await axios.get('https://api.github.com/user', {
+    headers: { Authorization: `Bearer ${process.env.GH_TOKEN}` },
+  });
+
+  // Update README.md content with repos and stats
+
+  // Write the updated content back to README.md
+  fs.writeFileSync('README.md', updatedContent);
+}
+
+updateReadme();

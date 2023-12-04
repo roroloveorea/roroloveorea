@@ -1,4 +1,4 @@
-name: Update README with My Repos
+name: Update README with Repos and Stats
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
     - name: Install Dependencies
       run: npm install
 
-    - name: Update README
+    - name: Update README with Repos and Stats
       run: npm run update-readme
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
