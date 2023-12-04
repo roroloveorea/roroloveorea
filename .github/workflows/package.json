@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "update-readme": "node update-readme.js"
+    },
+    "dependencies": {
+      "github-readme-stats": "^2.0.0"
+    }
+  }
+  

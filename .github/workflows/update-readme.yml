@@ -1,0 +1,25 @@
+name: Update README with My Repos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Update every 6 hours
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 14
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Update README
+      run: npm run update-readme
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
