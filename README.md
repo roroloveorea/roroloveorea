@@ -14,9 +14,14 @@
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-pink" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Java%20-yellowgreen" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Javascript%20-brown" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=pink" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/JavaScript-7e0d81?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+    <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 <p align="center">Python, Java, HTML, Javacript, SQL</p>
 
