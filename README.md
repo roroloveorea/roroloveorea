@@ -35,5 +35,20 @@
 
 <h3 align="center">📊 GitHub Stats </h3>
 <p align="center">
-  <!-- GitHub stats will be dynamically inserted here -->
+  <hr>
+
+<table border="0" align="center">
+    <tr border="0">
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roroloveorea&&show_icons=true&theme=tokyonight" />
+            </br></br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roroloveorea&theme=highcontrast&hide_border=true&mode=weekly" />
+        </td>
+        <td width="50%" align="center">
+            <img align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=roroloveorea&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
+        </td>
+    </tr>
+</table>
+
+<hr>
 </p>
