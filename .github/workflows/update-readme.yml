@@ -2,7 +2,7 @@ name: Update README with Repos and Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Update every 6 hours
+    - cron: '* * * * *' # Update every 6 hours
 
 jobs:
   update-readme:
