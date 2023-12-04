@@ -25,7 +25,6 @@
 </p>
 <h2 align="center" style="padding-bottom: 10px;"><b>Frameworks/Libraries</b></h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Flutter-075b9d?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
     <img src="https://img.shields.io/badge/Tensorflow-e65b29?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
