@@ -13,7 +13,21 @@ async function updateReadme() {
     headers: { Authorization: `Bearer ${process.env.GH_TOKEN}` },
   });
 
-  // Update README.md content with repos and stats
+  // Generate dynamic content for repositories
+  const reposList = repos.data.map(repo => `- [${repo.name}](${repo.html_url})`);
+
+  // Generate dynamic content for GitHub stats
+  const githubStats = `
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roroloveorea&show_icons=true&hide=contribs&theme=radical)
+`;
+
+  // Read the existing README.md content
+  const existingReadme = fs.readFileSync('README.md', 'utf-8');
+
+  // Replace the placeholders with the dynamic content
+  const updatedContent = existingReadme
+    .replace('<!-- Repositories will be dynamically inserted here -->', reposList.join('\n'))
+    .replace('<!-- GitHub stats will be dynamically inserted here -->', githubStats);
 
   // Write the updated content back to README.md
   fs.writeFileSync('README.md', updatedContent);
