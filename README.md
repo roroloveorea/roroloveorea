@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
-    <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 <h2 align="center" style="padding-bottom: 10px;"><b>Frameworks/Libraries</b></h2>
